@@ -9,3 +9,10 @@ This project explores clustering within a specific cryptocurrency market dataset
 
 ## Results
 The project compares clustering outcomes from the full dataset and PCA-reduced data, showing that PCA can simplify cluster structures and enhance visual clarity by focusing on principal trends. This approach helps clarify relationships among cryptocurrencies, although the reduction in features can also obscure certain nuanced details.
+
+
+## Sources
+
+- Most code was borrowed or inspired from class concepts taught in Module 19 of the June 2024 UMN Data Analytics Bootcamp course
+
+- Chat GPT was used for review of structure in specific lines and for debugging
